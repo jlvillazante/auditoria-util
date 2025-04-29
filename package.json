@@ -1,5 +1,5 @@
 {
-  "name": "@jlvillazante/auditoria-util",
+  "name": "@jvillazante/auditoria-util",
   "version": "1.0.0",
   "description": "Librería utilitaria para comparación de objetos y auditoría de cambios.",
   "main": "dist/index.js",
