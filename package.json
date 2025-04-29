@@ -1,0 +1,32 @@
+{
+  "name": "@jlvillazante/auditoria-util",
+  "version": "1.0.0",
+  "description": "Librería utilitaria para comparación de objetos y auditoría de cambios.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlvillazante/auditoria-util.git"
+  },
+  "keywords": [
+    "auditoria",
+    "comparacion",
+    "cambios",
+    "typescript",
+    "nestjs",
+    "utilidades"
+  ],
+  "author": "Jose Luis Villazante",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlvillazante/auditoria-util/issues"
+  },
+  "homepage": "https://github.com/jlvillazante/auditoria-util#readme",
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
